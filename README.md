@@ -1,6 +1,6 @@
 # README
 
-## Project: CMSC201 Assignments and Projects
+## CMSC201 Assignments and Projects
 
 Welcome to my CMSC201 repository! This repository contains my assignments, projects, and exercises completed during the CMSC201 course.
 
