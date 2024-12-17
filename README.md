@@ -2,7 +2,7 @@
 
 ## CMSC201 Assignments and Projects
 
-Welcome to my CMSC201 repository! This repository contains my assignments, projects, and exercises completed during the CMSC201 course.
+Welcome to my CMSC201 repository! This repository contains my assignments and projects completed during my CMSC201 course.
 
 ### About CMSC201
 CMSC201 is an introductory course to programming in Python, focusing on problem-solving, algorithm development, and basic programming concepts. This course serves as a foundation for advanced computer science topics.
